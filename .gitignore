@@ -1,0 +1,6 @@
+*.log
+.idea
+.idea_modules
+target/
+*.iml
+native/
